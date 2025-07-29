@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedmaklad" alt="muhammedmaklad" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science & AI**
+- 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **mohammedmaklad97@gmail.com**
 
