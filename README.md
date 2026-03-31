@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammedMaklad&theme=onedark)](https://github.com/MuhammedMaklad/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammedmaklad&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 ---
