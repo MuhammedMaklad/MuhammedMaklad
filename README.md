@@ -30,7 +30,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammedmaklad&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedmaklad&theme=onedark&no-frame=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedmaklad&show_icons=true&theme=onedark" />
+</p>
 </div>
 
 ---
