@@ -29,22 +29,6 @@ Results-driven **Software Engineer** with expertise in full-stack development, m
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-git-main.vercel.app/?username=muhammedmaklad&theme=onedark&no-frame=true&row=1&column=7" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedmaklad&theme=react-dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedmaklad&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedmaklad&layout=compact&theme=tokyonight" />
-</p>
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -119,11 +103,6 @@ Results-driven **Software Engineer** with expertise in full-stack development, m
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedmaklad&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedmaklad&layout=compact&theme=tokyonight" />
-</p>
 
 <div align="center">
 
