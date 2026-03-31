@@ -33,8 +33,7 @@ Results-driven **Software Engineer** with expertise in full-stack development, m
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammedmaklad&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammedMaklad)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
