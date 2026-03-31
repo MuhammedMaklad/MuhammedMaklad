@@ -36,7 +36,9 @@ Results-driven **Software Engineer** with expertise in full-stack development, m
     <img src="https://github-profile-trophy-git-main.vercel.app/?username=muhammedmaklad&theme=onedark&no-frame=true&row=1&column=7" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedmaklad&theme=react-dark" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
