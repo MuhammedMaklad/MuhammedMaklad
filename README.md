@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=header&text=Muhammed%20Reda&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header"/>
+</div>
+<div align="center">
 
 # Hi there, I'm Mohamed Reda Maklad 👋
 
@@ -9,27 +12,62 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/m_reda)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mohammedmaklad)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_muhammed_maklad)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/maklad)
 
 </div>
 
 ---
 
+---
+
+<div align="center">
+
 ## 🙋‍♂️ About Me
 
-Results-driven **Software Engineer** with expertise in full-stack development, microservices architecture, and cloud-native applications. Experienced in designing secure REST APIs, deploying scalable distributed systems with Docker & Kubernetes, and integrating AI/ML solutions including NLP and generative AI tools (LangChain, LangGraph).
+</div>
 
-- 🎓 **B.Sc. Computer Science** — Benha University _(GPA: 3.6)_
-- 🏫 Currently enrolled in **ITI Professional Training Program** — Integrated Software Development & Architecture Track
-- 💼 **Freelance AI & Backend Developer** — building AI-powered systems and secure APIs
-- 🧠 **1,900+ problems solved** across Codeforces & LeetCode
-- ⚡ Fun fact: **I think I'm funny** 😄
-- 📫 **mohammedmaklad97@gmail.com** · 📞 +201032872736
-- 📄 [View My Resume](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+Results-driven **Software Engineer** specializing in **full-stack development**, **microservices architecture**, and **cloud-native applications**.
+
+Passionate about building **scalable systems**, **secure REST APIs**, and integrating **AI/ML solutions** including **NLP** and **Generative AI** (LangChain, LangGraph).
 
 ---
 
+### 🎓 Education
+
+- **B.Sc. in Computer Science** — Benha University _(GPA: 3.6)_
+- **ITI Professional Training Program**  
+  _Integrated Software Development & Architecture Track_
+
+---
+
+### 💼 Experience
+
+- **Freelance AI & Backend Developer**  
+  Building AI-powered systems and secure, scalable backend services
+
+---
+
+### 🧠 Achievements
+
+- 🏆 Solved **1,900+ problems** across Codeforces & LeetCode
+- 🚀 Strong foundation in **Data Structures & Algorithms**
+
+---
+
+### 📫 Contact
+
+- 📧 **Email:** mohammedmaklad97@gmail.com
+- 📞 **Phone:** +20 103 287 2736
+- 📄 [View My Resume](https://drive.google.com/file/d/1Et9ggnZU5avV5c2tSBQMfSTA9NJnZUj-/view?usp=drive_link)
+
+---
+
+---
+
+<div align="center">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 ### 💻 Languages
 
@@ -91,29 +129,29 @@ Results-driven **Software Engineer** with expertise in full-stack development, m
 
 ---
 
-## 🏅 Competitive Programming
-
-|     Platform      | Achievement                                                 |
-| :---------------: | :---------------------------------------------------------- |
-| 🟦 **Codeforces** | Pupil rank · 1,100+ problems solved                         |
-|  🟨 **LeetCode**  | 800+ problems solved                                        |
-| 🟩 **HackerRank** | ⭐⭐⭐⭐⭐ 5-star rating in SQL                             |
-|    🏆 **ECPC**    | Participated in the Egyptian Collegiate Programming Contest |
-
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammedmaklad&theme=tokyonight)](https://git.io/streak-stats)
+## 📊 GitHub Statistics
+
+</div>
+
+<div align="center">
+
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api?username=MuhammedMaklad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMaklad&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammedMaklad&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+---
+
 <div align="center">
-
-_"First, solve the problem. Then, write the code."_ — John Johnson
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
