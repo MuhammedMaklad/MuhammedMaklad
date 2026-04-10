@@ -17,8 +17,6 @@
 
 ---
 
----
-
 <div align="center">
 
 ## 🙋‍♂️ About Me
@@ -58,8 +56,6 @@ Passionate about building **scalable systems**, **secure REST APIs**, and integr
 - 📧 **Email:** mohammedmaklad97@gmail.com
 - 📞 **Phone:** +20 103 287 2736
 - 📄 [View My Resume](https://drive.google.com/file/d/1Et9ggnZU5avV5c2tSBQMfSTA9NJnZUj-/view?usp=drive_link)
-
----
 
 ---
 
@@ -129,8 +125,6 @@ Passionate about building **scalable systems**, **secure REST APIs**, and integr
 
 ---
 
----
-
 <div align="center">
 
 ## 📊 GitHub Statistics
@@ -147,8 +141,6 @@ Passionate about building **scalable systems**, **secure REST APIs**, and integr
   <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammedMaklad&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ---
 
