@@ -11,7 +11,7 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I'm currently working on full-stack, microservices, and AI-powered systems.
-- 🌱 I have professional experience in **ASP.NET Core**, **FastAPI**, **NestJS**, **React**, and building scalable **REST APIs** and **microservices**.
+- 🌱 I have professional experience in **ASP.NET Core**, **FastAPI**, **NestJS**, **React**, **Angular**, and building scalable **REST APIs** and **microservices**.
 - 🤖 Passionate about integrating **AI/ML** solutions including **NLP** and **Generative AI** (LangChain, LangGraph).
 - 🏆 Solved **1,900+ problems** across Codeforces & LeetCode — strong DSA foundation.
 - 👯 I'm looking to collaborate on distributed systems, AI integration, and backend architecture projects.
@@ -52,6 +52,9 @@
 <p align="left">
   <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  <a href="https://angular.io/">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   </a>
   <a href="https://redux-toolkit.js.org/">
     <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -192,8 +195,14 @@
 <h3>My GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedMaklad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="200" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedMaklad&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedMaklad&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=1800" alt="Top Languages" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammedMaklad&show_icons=true&theme=dark&locale=en&cache_seconds=1800&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMaklad&theme=dark&hide_border=false" alt="GitHub Streak" height="200" />
 </p>
 
 <br>
