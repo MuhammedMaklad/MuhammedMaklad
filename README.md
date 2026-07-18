@@ -33,7 +33,7 @@
 
 ```yaml
 name: Mohamed Reda Maklad
-role: Full-Stack Software Engineer
+role: Software Engineer
 education: 🎓 CS Graduate — Benha University (GPA 3.6)
 training: ITI Integrated Software Dev & Architecture
 location: Egypt 🇪🇬
